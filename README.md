@@ -24,3 +24,12 @@
 
 <h1>MonkoRafis</h1>
 
+[Download](https://github.com/RunnySunny/skinsrunnysunny/raw/main/MonkoRafis.osk)
+
+![screenshot020](https://user-images.githubusercontent.com/83289214/137597553-9175e9f2-cc67-4f7c-b16c-9701ba23e78d.jpg)
+
+<h1>MonkoMugio (2018)</h1>
+
+[Download](https://fastmanmonko.s-ul.eu/V9udC56x)
+
+![screenshot021](https://user-images.githubusercontent.com/83289214/137597689-c8868b59-9484-446d-8580-8fd9ca2f2962.jpg)
